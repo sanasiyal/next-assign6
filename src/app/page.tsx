@@ -30,7 +30,9 @@ export default function Home() {
 
 <div className="flex w-[1280px] h-[600px] top-[141px] ">
 
-  
+  <div >
+
+
 <div className="w-[800px] h-[300px]  " >
   <h3 className="ml-28 mt-44 w-[500px] h-[134px] text-[56px] ">Learn new skills online with ease</h3>
   <p className="w-[500px] h-[54px] text-[18px] ml-28 mt-10">Discover a wide range of course covering a varietyof subjects,taught by expert instructors.</p>
@@ -45,7 +47,7 @@ export default function Home() {
 
 <button className=" px-12px border border-black rounded-[5px] w-[164px] h-[48px]  ">Explore Courses</button>
 
-
+</div>
 
 </div>
 <div >
